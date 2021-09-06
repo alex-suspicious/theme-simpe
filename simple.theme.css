@@ -1,0 +1,141 @@
+/**
+ * @name Simple
+ * @author Alex
+ * @version 1
+ * @description Thank you for choosing Alex's stuff!
+ * @authorLink https://discordhub.com/profile/269392944782508032
+ * @authorId 269392944782508032
+ * @invite RJrTwypqGM
+*/
+
+:root {
+  --Text-Color: rgba(54,57,64,1);
+  --background-tertiary: rgba(32,32,32,0);
+
+  --background-fake-tertiary: rgba(32,32,32,1);
+  --background-fake-tertiary-09: rgba(32,32,32,0.9);
+
+  --background-secondary: rgba(24,24,24,0.8);
+  --background-secondary-alt: rgba(24,24,24,0.8);
+  --background-primary: rgba(24,24,24,0.8);
+  --channeltextarea-background: rgba(18,18,18,1);
+  --interactive-normal: rgba(255,255,255,1);
+
+  --scrollbar-auto-thumb: rgba(170,170,170,1);
+  --scrollbar-auto-track: rgba(0,0,0,0);
+
+  --scrollbar-thin-thumb: rgba(170,170,170,1);
+  --scrollbar-thin-track: rgba(0,0,0,0);
+
+
+  --info-warning-foreground: rgba(62,166,255,1);
+  --background-mentioned: rgba(62,166,255,0.1);
+  --background-mentioned-hover: rgba(62,166,255,0.2);
+  --background-message-hover: rgba(62,166,255,0.1);
+
+  --brand-experiment: rgba(62,166,255,1);
+  --brand-experiment-30a: rgba(62,166,255,0.3);
+  --brand-experiment-200:  rgba(240,250,255,1);
+  --background-modifier-selected: rgba(0,0,0,0);
+  --background-modifier-hover: rgba(0,0,0,0);
+  --background-modifier-active: rgba(0,0,0,0);
+
+  --yt-border-color: rgba(48, 48, 48, 1.0);
+}
+
+
+.wrapper-3NnKdC{
+  background-color: var(--background-fake-tertiary);
+}
+
+.bg-h5JY_x{
+  background-color: var(--background-fake-tertiary);
+}
+
+.layers-3iHuyZ{
+  background: url("https://i.imgur.com/m4t5Jth.png");
+}
+
+.typeWindows-1za-n7{
+  background-color: var(--background-fake-tertiary);
+}
+
+.scroller-lynW5A{
+  background-color: var(--background-fake-tertiary-09);
+}
+
+.container-3w7J-x{
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.panels-j1Uci_{
+  background-color: rgba(0, 0, 0, 0);
+}
+
+
+.header-2V-4Sw{
+  background-color: var(--background-fake-tertiary);
+}
+
+.container-1r6BKw.themed-ANHk51{
+  background: var(--background-fake-tertiary);
+  background-color: var(--background-fake-tertiary);
+}
+
+.theme-dark .container-1D34oG{
+  background-color: var(--background-primary);
+}
+
+.searchBar-3dMhjb{
+  background-color: var(--channeltextarea-background);
+  border: 1px solid var(--yt-border-color);
+}
+
+.scrollableContainer-2NUZem{
+  border: 1px solid var(--yt-border-color);
+}
+
+.theme-dark .autocomplete-1vrmpx{
+  background-color: var(--background-primary);
+  border: 1px solid var(--yt-border-color);
+}
+
+
+.message-2qnXI6{
+  transition: all 0.1s;
+  border-left: 0px solid rgba(0,0,0,0);
+}
+
+
+.container-2Pjhx-{
+  transition: all 0.1s;
+  border-right: 0px solid rgba(0,0,0,0);
+}
+
+.container-2Pjhx-:hover{
+  background-color: rgba(0, 0, 0, 0);
+  border-right: 2px solid var(--info-warning-foreground);
+  border-radius: 0px;
+  margin-left: 6px;
+}
+
+.containerDefault--pIXnN{
+  transition: all 0.1s;
+  border-left: 0px solid rgba(0,0,0,0);
+}
+
+.containerDefault--pIXnN:hover{
+  background-color: rgba(0, 0, 0, 0);
+  border-left: 2px solid var(--info-warning-foreground);
+}
+
+.selected-3LIHYU{
+  border-left: 2px solid var(--info-warning-foreground);
+}
+
+
+.embedWrapper-lXpS3L{
+  border-top: 1px solid var(--yt-border-color);
+  border-right: 1px solid var(--yt-border-color);
+  border-bottom: 1px solid var(--yt-border-color);
+}
