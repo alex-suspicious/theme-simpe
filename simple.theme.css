@@ -15,7 +15,9 @@
   --background-fake-tertiary: rgba(32,32,32,1);
   --background-fake-tertiary-09: rgba(32,32,32,0.9);
 
-  --background-secondary: rgba(24,24,24,0.8);
+  --background-secondary: rgba(24,24,24,0);
+  --background-fake-secondary: rgba(24,24,24,0.8);
+
   --background-secondary-alt: rgba(24,24,24,0.8);
   --background-primary: rgba(24,24,24,0.8);
   --channeltextarea-background: rgba(18,18,18,1);
@@ -43,6 +45,10 @@
   --yt-border-color: rgba(48, 48, 48, 1.0);
 }
 
+
+.members-1998pB .thin-1ybCId .scrollerBase-289Jih .fade-2kXiP2{
+  background-color: var(--background-fake-tertiary);
+}
 
 .wrapper-3NnKdC{
   background-color: var(--background-fake-tertiary);
@@ -72,6 +78,9 @@
   background-color: rgba(0, 0, 0, 0);
 }
 
+.sidebar-2K8pFh{
+  background-color: var(--background-fake-secondary);
+}
 
 .header-2V-4Sw{
   background-color: var(--background-fake-tertiary);
