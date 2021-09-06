@@ -161,6 +161,7 @@
 
 
 .embedWrapper-lXpS3L{
+  background-color: var(--background-fake-secondary);
   border-top: 1px solid var(--yt-border-color);
   border-right: 1px solid var(--yt-border-color);
   border-bottom: 1px solid var(--yt-border-color);
