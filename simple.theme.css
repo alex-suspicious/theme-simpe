@@ -45,6 +45,21 @@
   --yt-border-color: rgba(48, 48, 48, 1.0);
 }
 
+.wrapper-1-Fsb8{
+  background-color: var(--background-fake-tertiary);
+}
+
+.drawerSizingWrapper-17Mss4{
+  background-color: var(--background-fake-tertiary);
+  border: 1px solid var(--yt-border-color);
+  box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.4);
+}
+
+.emojiPicker-3PwZFl{
+  background-color: var(--background-fake-tertiary);
+  border: 1px solid var(--yt-border-color);
+  box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.4);
+}
 
 .members-1998pB .thin-1ybCId .scrollerBase-289Jih .fade-2kXiP2{
   background-color: var(--background-fake-tertiary);
@@ -98,10 +113,12 @@
 .searchBar-3dMhjb{
   background-color: var(--channeltextarea-background);
   border: 1px solid var(--yt-border-color);
+  border-radius: 0px;
 }
 
 .scrollableContainer-2NUZem{
   border: 1px solid var(--yt-border-color);
+  border-radius: 0px;
 }
 
 .theme-dark .autocomplete-1vrmpx{
